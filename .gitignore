@@ -1,6 +1,8 @@
 #ignore types
 
 .metadata
+.classpath
+.project
 bin/
 tmp/
 target/
