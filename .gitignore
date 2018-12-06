@@ -1,0 +1,10 @@
+#ignore types
+
+.metadata
+bin/
+tmp/
+target/
+*.tmp
+*.bak
+*.swp
+.settings/
