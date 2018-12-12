@@ -26,6 +26,7 @@
   <distributionManagement>
    <repository>
     <name>example-repo-local</name>
+    <id>example-repo-local</id>
     <url>http://localhost:8081/artifactory/example-repo-local/avaaj</url>
    </repository>
   </distributionManagement>
