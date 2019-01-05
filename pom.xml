@@ -27,12 +27,7 @@
    <repository>
     <name>example-repo-local</name>
     <id>example-repo-local</id>
-    <url>http://localhost:8081/artifactory/example-repo-local/release</url>
+    <url>http://localhost:8081/artifactory/example-repo-local</url>
    </repository>
-   <snapshotRepository>
-   <name>example-repo-local</name>
-    <id>example-repo-local</id>
-    <url>http://localhost:8081/artifactory/example-repo-local/snapshots</url>
-   </snapshotRepository>
   </distributionManagement>
 </project>
