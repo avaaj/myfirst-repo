@@ -32,9 +32,9 @@
 </build>
   <distributionManagement>
    <repository>
-    <name>example-repo-local</name>
-    <id>example-repo-local</id>
-    <url>http://localhost:8081/artifactory/example-repo-local</url>
+    <name>my_first_repo</name>
+    <id>my_first_repo</id>
+    <url>http://localhost:8081/artifactory/my_first_repo</url>
    </repository>
   </distributionManagement>
 </project>
